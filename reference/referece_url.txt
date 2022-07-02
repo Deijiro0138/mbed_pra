@@ -1,0 +1,7 @@
+uart
+https://qiita.com/Kosuke_Matsui/items/5e95c8e77f39f78e834e
+usart1(PA9/PA10),usart2(PA2,PA3)
+
+sbus
+https://github.com/bolderflight/sbus
+https://github.com/mikeshub/FUTABA_SBUS/tree/master/FUTABA_SBUS

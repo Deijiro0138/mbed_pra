@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../develop/qiskit"
+		},
+		{
+			"name": "mbed_pra",
+			"path": "mbed_pra"
+		}
+	],
+	"settings": {}
+}
